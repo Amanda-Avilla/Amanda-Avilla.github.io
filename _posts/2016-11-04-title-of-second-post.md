@@ -1,6 +1,5 @@
 ---
 layout: post
----
 title: This is the title of the post
 postHero: /images/shark.jpg
 author: Me, Myself, and I
